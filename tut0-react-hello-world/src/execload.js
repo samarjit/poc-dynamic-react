@@ -1,0 +1,1 @@
+require("script-loader!./D1.jsx");
